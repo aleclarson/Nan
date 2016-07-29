@@ -21,4 +21,4 @@ module.exports = Validator("Nan", {
   }
 });
 
-//# sourceMappingURL=../../map/src/Nan.map
+//# sourceMappingURL=map/Nan.map
