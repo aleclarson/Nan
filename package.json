@@ -10,7 +10,7 @@
     "postinstall": "npm run build"
   },
   "dependencies": {
-    "Validator": "aleclarson/Validator#1.1.0",
+    "Validator": "aleclarson/Validator#1.1.1",
     "isConstructor": "aleclarson/isConstructor#1.0.0",
     "wrongType": "aleclarson/wrongType#1.0.0"
   }
