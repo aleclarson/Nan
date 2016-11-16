@@ -5,6 +5,8 @@ wrongType = require "wrongType"
 
 Nan = Validator "Nan",
 
+  # Must check the `constructor` of the value first, because
+  # `isNaN()` returns true for objects and undefined values.
   test: (value) ->
     return no if not isConstructor value, Number
     return global.isNaN value
