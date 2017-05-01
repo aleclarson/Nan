@@ -1,0 +1,10 @@
+{
+  "name": "Nan",
+  "version": "1.1.1",
+  "main": "js/Nan",
+  "dependencies": {
+    "Validator": "aleclarson/Validator#1.1.1",
+    "isConstructor": "aleclarson/isConstructor#1.0.0",
+    "wrongType": "aleclarson/wrongType#1.0.0"
+  }
+}
